@@ -1,8 +1,6 @@
 # Projeto My Card
 
 <img src="github/home.gif" alt="Home do projeto" alt="drawing" width="1000">
-<br>
-<br>
 <img src="github/cards.gif" alt="Home do projeto" alt="drawing" width="1000">
 <img src="github/security-section.PNG" alt="Secção sobre segurança do app" alt="drawing" width="1000">
  <img src="github/form-section.PNG" alt="Formulário para cadastro" alt="drawing" width="1000">
